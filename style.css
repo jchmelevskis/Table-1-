@@ -1,0 +1,33 @@
+* {
+    font-family: montserrat;
+}
+
+table {
+    background:  #382c6e;
+    color: white;
+    border-collapse: collapse;
+    border: 2px solid #e2b649;
+text-align: left;
+font-size: 20px;
+
+ 
+}
+
+td, th {
+    border: 1px solid #fec107;
+    padding: 20px;
+    width: 170px;
+}
+
+.lastname {
+    background: #e5ae2f;
+    color: black;
+    font-weight:600;
+}
+
+table th {
+    background:#e2b649;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+  }
